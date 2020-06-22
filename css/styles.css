@@ -117,13 +117,13 @@ a:hover {
 .top-cloud {
   position: absolute;
   top: 40px;
-  right: 15%;
+  left: 75%;
 }
 
 .bottom-cloud {
   position: absolute;
   bottom: 300px;
-  left: 15%;
+  right: 75%;
 }
 
 .skill-row {
